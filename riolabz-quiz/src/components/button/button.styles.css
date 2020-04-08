@@ -1,0 +1,19 @@
+button[type="button"]{
+    background:transparent;
+    border:none;
+    outline:none;
+    color:#fff;
+    background:#4cd137;
+    padding:10px 20px;
+    cursor:pointer;
+    width:170px;
+    height:55px;
+    font-size:25px;
+    font-family: 'Righteous', cursive;
+    letter-spacing:2px;
+    border-radius:5px;
+}
+button[type="button"]:hover{
+  background:#273c75;
+  color:#f5f6fa;
+}
